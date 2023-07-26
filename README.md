@@ -45,7 +45,7 @@ git clone https://github.com/your-username/java-jdbc-crud.git
 
 ## Database Schema
 
-The program assumes a simple database schema with a single table named `employees`. Modify the database schema and the corresponding Java classes as per your project requirements.
+The program assumes a simple database schema with a single table named `Student`. Modify the database schema and the corresponding Java classes as per your project requirements.
 
 ## Sample Data
 
